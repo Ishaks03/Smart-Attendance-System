@@ -1,3 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+attendance1_env/
+*.venv
+.venv/
+
+# Dataset / trainer / generated
+dataset/
+trainer/
+reports/
+instance/
+attendance.csv
+
+# IDE
+.vscode/
 "attendance1_env/" 
 "__pycache__/" 
 "reports/" 
